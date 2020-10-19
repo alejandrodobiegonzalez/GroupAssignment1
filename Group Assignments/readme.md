@@ -25,6 +25,11 @@ _The Department of Building and Safety issues permits for the construction, remo
 
 * (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
 
+#### Riverside County Mapping Portal: Assessor PropertyCharacteristics Table
+_Interested in utilizing shapefiles of the Regional Housing Needs Assessment (RHNA) neighborhoods, areas being upzoned, and any breakdown that might demonstrate where accessory dwelling unit (ADU) production is taking place. 
+
+* (https://gisopendata-countyofriverside.opendata.arcgis.com/datasets/assessor-propertycharacteristics-table) 
+
 ### Scope of Work
 
 ### Conclusion
