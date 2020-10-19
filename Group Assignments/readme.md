@@ -15,7 +15,7 @@ _Looking at housing data in the urban context of the City of Los Angeles, and th
 
 ## Spatial Scope
 
-_We are interested in the comparison between the City of Los Angeles and Unincorporated Riverside County. Given their varying local contexts as urban and suburban areas, respectively, we are interested in using these areas as case studies as they are both looking for creative solutions to densify. Broadly, we are interested in using these areas as case studies to look at housing pressures and understand how these pressures motivate upzoning in the urban and suburban context.
+_We are interested in the spatial scope of the City of Los Angeles and Unincorporated Riverside County. Given their varying local contexts as urban and suburban areas, respectively, we are interested in using these areas as case studies as they are both looking for creative solutions to densify. As California intends to increase its housing production, these locations can provide unique perspectives and make a case for density in the state. Broadly, we are interested in using these areas as case studies to look at housing pressures and understand how these pressures motivate upzoning in the urban and suburban context._
 
 
 ### Description of Data Sources
