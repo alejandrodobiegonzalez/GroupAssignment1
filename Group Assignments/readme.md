@@ -2,7 +2,9 @@
 _Alejandro Gonzalez and Mike Van Gorder, UP206_
 ### Research Question Introduction: Local and Historical Context of Single Family Housing Dominance
 
-* What places have changed from Single Family Housing only (R1) to R3-R5 and why? Did that upzoning result in housing getting built? Where is housing needed where it is still being refused?
+* Looking at housing data in the urban context of the City of Los Angeles, and the suburban context in Unincorporated Riverside County -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing. 
+
+* #### _What places have changed from Single Family Housing only (R1) to R3-R5 and why? Did that upzoning result in housing getting built? Where is housing needed where it is still being refused?_
 
 * ##### _If targeting upzoning is being employed as a means of densification and offered as a solution to the housing problem, how well is this approach working?_
 
