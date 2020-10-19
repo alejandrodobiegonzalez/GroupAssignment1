@@ -4,9 +4,9 @@ _Alejandro Gonzalez and Mike Van Gorder, UP206_
 
 * Looking at housing data in the urban context of the City of Los Angeles, and the suburban context in Unincorporated Riverside County -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing. 
 
-* ##### _What places have changed from Single Family Housing only (R1) to R3-R5 and why? Did that upzoning result in housing getting built? Where is housing needed where it is still being refused?_
+* __ _What places have changed from Single Family Housing only (R1) to R3-R5 and why? Did that upzoning result in housing getting built? Where is housing needed where it is still being refused?_ __
 
-* ##### _If targeting upzoning is being employed as a means of densification and offered as a solution to the housing problem, how well is this approach working?_
+* _ __If targeting upzoning is being employed as a means of densification and offered as a solution to the housing problem, how well is this approach working?__ _ 
 
 ### Why are we interested in this research?
 * California suffers from a housing affordability crisis. Nearly half of occupied housing units in the state are rented, and more than half those households spend over 30% of their income on housing, which HUD defines as cost-burdened. Combining rentals and owned properties, 48.6% of California’s housing units – over 6.3 million of them – are a cost burden to their occupants. Governor Newsom has emphasized housing affordability as an executive priority and planned to build 3.5 million housing units by 2025, which would have necessitated building 500,000 new units per year from his inauguration.  However, local control over zoning interfered with this goal, and 2019 actually saw a 5.5% decline in total housing starts (109,900).
