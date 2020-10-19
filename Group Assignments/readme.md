@@ -18,11 +18,12 @@ _Looking at housing data in the urban context of the City of Los Angeles, and th
 _We are interested in the spatial scope of the City of Los Angeles and Unincorporated Riverside County. Given their varying local contexts as urban and suburban areas, respectively, we are interested in using these areas as case studies as they are both looking for creative solutions to densify. As California intends to increase its housing production, these locations can provide unique perspectives and make a case for density in the state. Broadly, we are interested in using these areas as case studies to look at housing pressures and understand how these pressures motivate upzoning in the urban and suburban context._
 
 
-### Description of Data Sources
+## Description of Data Sources
 
+#### LA City Data: New Residential Building Permits over 100k
 _The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles. Permits are categorized into building permits, electrical permits, and mechanical permits (which include plumbing, HVAC systems, fire sprinklers, elevators, and pressure vessels). Depending on the complexity of a project, a permit may be issued the same day with Express Permit or e-Permit ("No Plan Check" category), or a permit may require that the plans be reviewed ("Plan Check" category) by a Building and Safety Plan Check personnel._ 
 
-* [LA City Data: New Residential Building Permits over 100k] (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
+* (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
 
 ### Scope of Work
 
