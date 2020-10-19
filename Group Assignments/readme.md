@@ -1,4 +1,4 @@
-# Understanding Density and Affordability
+# Understanding Density and Affordability in the City of Los Angeles and Unincorporated Riverside County 
 _Alejandro Gonzalez and Mike Van Gorder_
 <h3> Research Question Introduction
    <h6>State and Historical Context of SFH Dominance: What places have changed from SFH to R3-R5 and why? Did that upzoning result in housing getting built? Where is housing needed where it is still being refused?
