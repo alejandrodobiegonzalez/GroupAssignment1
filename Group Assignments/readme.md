@@ -37,8 +37,11 @@ _Will utilize ACS information to make connections of affordability and housing p
 
 ### Scope of Work
 
-* Ellis act evictions (may measure gentrification better than just housing pressure) (anti eviction mapping project) 
-* Rent increases as a heat map (from where?) 
+_Our intended analysis will create connections between racialized housing policies like redlining and the power of single family zoning. Utilizing permit data will demonstrate where construction in happening in Los Angeles and Riverside and point to where housing production (density) has stagnated. We intend to explore if the same locations that enforced redlining are also those areas most resistant to change and density. Utilizing the American Community Survey data will further reveal tresholds of affordability, homeownership, and overcrowding._
+
+**Other considerations for visualizations:** 
+* Ellis act evictions (may measure gentrification better than just housing pressure) [Anti eviction mapping project] 
+* Rent increases as a heat map
 * Overcrowding as proxy for housing pressure (ACS)
 * Need two maps from two different years to overlay and find the discrepancies in zoning for each jurisdiction
 
