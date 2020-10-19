@@ -48,6 +48,5 @@ _Our intended analysis will create connections between racialized housing polici
 
 ### Conclusion
 
-_We want to know if the rhetoric around existing efforts at targeted upzoning pattern has resulted in actual housing for low-income residents
-Understanding how the state of California can target single family zoning to increase density._
+_We want to know if the rhetoric around existing efforts at targeted upzoning pattern has resulted in actual housing for low-income residents by understanding how the state of California can target single family zoning to increase density. We expect to reveal that single family neighborhoods that have not increased their desnity are also those who enforced redlining policies. We also hope to make the case that desnsity in urban and suburban neighborhoods is equally needed._
 
