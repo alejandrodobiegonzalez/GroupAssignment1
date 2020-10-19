@@ -26,9 +26,14 @@ _The Department of Building and Safety issues permits for the construction, remo
 * (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
 
 #### Riverside County Mapping Portal: Assessor PropertyCharacteristics Table
-_Interested in utilizing shapefiles of the Regional Housing Needs Assessment (RHNA) neighborhoods, areas being upzoned, and any breakdown that might demonstrate where accessory dwelling unit (ADU) production is taking place. 
+_Interested in utilizing shapefiles of the Regional Housing Needs Assessment (RHNA) neighborhoods, areas being upzoned, and any breakdown that might demonstrate where accessory dwelling unit (ADU) production is taking place._
 
 * (https://gisopendata-countyofriverside.opendata.arcgis.com/datasets/assessor-propertycharacteristics-table) 
+
+#### American Community Survey (ACS) Census Data: SELECTED HOUSING CHARACTERISTICS
+_Will utilize ACS information to make connections of affordability and housing production in the State of California.
+
+*(https://data.census.gov/cedsci/table?g=0400000US06_1600000US0644000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP04) 
 
 ### Scope of Work
 
