@@ -1,5 +1,5 @@
 # Understanding Density and Affordability in the City of Los Angeles & Unincorporated Riverside County 
-_Alejandro Gonzalez and Mike Van Gorder, UP206_
+_Alejandro Gonzalez and Michael Van Gorder, UP206_
 ## Research Question Introduction: Local and Historical Context of Single Family Housing Dominance
 
 _Looking at housing data in the urban context of the City of Los Angeles, and the suburban context in Unincorporated Riverside County -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing._
