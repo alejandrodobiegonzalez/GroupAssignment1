@@ -20,6 +20,8 @@ _We are interested in the spatial scope of the City of Los Angeles and Unincorpo
 
 ### Description of Data Sources
 
+* [LA City Data: New Residential Building Permits over 100k] (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
+
 ### Scope of Work
 
 ### Conclusion
