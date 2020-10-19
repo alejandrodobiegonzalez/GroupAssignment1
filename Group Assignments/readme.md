@@ -31,10 +31,20 @@ _Interested in utilizing shapefiles of the Regional Housing Needs Assessment (RH
 * (https://gisopendata-countyofriverside.opendata.arcgis.com/datasets/assessor-propertycharacteristics-table) 
 
 #### American Community Survey (ACS) Census Data: SELECTED HOUSING CHARACTERISTICS
-_Will utilize ACS information to make connections of affordability and housing production in the State of California.
+_Will utilize ACS information to make connections of affordability and housing production in the State of California._
 
-*(https://data.census.gov/cedsci/table?g=0400000US06_1600000US0644000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP04) 
+* (https://data.census.gov/cedsci/table?g=0400000US06_1600000US0644000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP04) 
 
 ### Scope of Work
 
+* Ellis act evictions (may measure gentrification better than just housing pressure) (anti eviction mapping project) 
+* Rent increases as a heat map (from where?) 
+* Overcrowding as proxy for housing pressure (ACS)
+* Need two maps from two different years to overlay and find the discrepancies in zoning for each jurisdiction
+
+
 ### Conclusion
+
+_We want to know if the rhetoric around existing efforts at targeted upzoning pattern has resulted in actual housing for low-income residents
+Understanding how the state of California can target single family zoning to increase density._
+
