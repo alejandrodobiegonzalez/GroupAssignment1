@@ -5,9 +5,9 @@ _Alejandro Gonzalez and Michael Van Gorder, UP206_
 
 #### Roles: 
 
-* Mike: 
+* Mike, _The "Social Explorer" _ : Mike is generating maps and data in Social Explorer and he has chosen the title of “Social Explorer”.
 
-* Alejandro: 
+* Alejandro, _The BTS Designer_ : Alejandro is desigining and laying out the data 
 
 #### Status update: Report on the general mood of the team, and provide details as to what is working, and what is not.
 
