@@ -12,7 +12,10 @@ _Alejandro Gonzalez and Michael Van Gorder, UP206_
 #### Status update:
 
 * Mood is grim, due more to external factors than anything else.
-* Started on a larger scale and saw the benefits of reducing our project scope to focus on two neighborhoods with different demographics and histories. 
+* Started on a larger scale and saw the benefits of reducing our project scope to focus on two neighborhoods with different demographics and histories.
+  * Atwater Village is predominantly white along the commercial corridor on Glendale Blvd with pockets of working class Latinx populations nearest the river. Home valuations (modestly sized SFHs on large lots allowing for ADUs to be built) have shot up past a million dollars. Zoning changes here may only sanction previously built ADUs; the NIMBYism here can be very strong. It’s northeast Los Angeles running up into Glendale and the equestrian district. No significant historical black presence.
+  * Leimert Park is a historically black working class Single-Family Neighborhood in South Los Angeles with two census block groups of plurality-Latinx.
+
 
 #### Data update:
 
