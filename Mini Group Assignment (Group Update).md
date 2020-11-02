@@ -18,7 +18,7 @@ Started on a larger scale and saw the benefits of reducing our project scope to 
 
 #### Concerns: There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
 
-* Major Concerns: 
+* *Major Concerns:* 
 
 1. Our initial goal was to study zoning issues that are extremely contemporaneous and are therefore unrepresented on Social explorer. If there are other data that can rival the extremely digestible social explorer we’d love to see it, but in all likelihood we need to adjust our interests to comparing earlier in this decade to somewhat recently in this decade. 
 
