@@ -42,7 +42,7 @@ _Will utilize ACS information to make connections of affordability and housing p
 
 * (https://data.census.gov/cedsci/table?g=0400000US06_1600000US0644000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP04) 
 
-### Scope of Work
+## Scope of Work
 
 _Our intended analysis will create connections between racialized housing policies like redlining and the power of single family zoning. Utilizing permit data will demonstrate where construction in happening in Los Angeles and Riverside and point to where housing production (density) has stagnated. We intend to explore if the same locations that enforced redlining are also those areas most resistant to change and density. Utilizing the American Community Survey data will further reveal tresholds of affordability, homeownership, and overcrowding._
 
@@ -53,6 +53,6 @@ _Our intended analysis will create connections between racialized housing polici
 * Need two maps from two different years to overlay and find the discrepancies in zoning for each jurisdiction
 
 
-### Conclusion
+## Conclusion
 
 _We want to know if the rhetoric around existing efforts at targeted upzoning pattern has resulted in actual housing for low-income residents by understanding how the state of California can target single family zoning to increase density. We expect to reveal that single family neighborhoods that have not increased their density are also those that historically enforced redlining policies. We also hope to make the case that desnsity in urban and suburban neighborhoods is equally needed._
