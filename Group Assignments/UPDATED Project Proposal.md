@@ -2,7 +2,18 @@
 _Alejandro Gonzalez and Michael Van Gorder, UP206_
 ## Research Question Introduction: Local and Historical Context of Single Family Housing Dominance
 
-_Grounding our research in the historical context of redlining practices in Los Angeles, we will explore how redlining has affected the growth of two single family neighborhoods -- Leimert Park and Atwater Village. Comparing housing data from the American community Survery (Social Explorer) and Los Angeles Department of Building and Safety (LADBS) construction permit data -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Also, given the level of public investment in infrastructure in each respective neighborhood with the Crenshaw Line in Leimert Park and the LA River project near Atwater Village, we would like to understand if this increases pressures to densify. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing._
+_Single family housing was historically elevated as the ‘Highest and Best Use’ of land in the United States, and exclusionary zoning served to artificially inflate property values for decades and suppress density in areas with elevating housing pressure, often with a racialized impact. The contemporary moment of single family housing in urban areas and their suburban rings is one of intense need for higher densities, and exclusionary zoning is being called into question - though not universally. 
+Our initial interest was in how single family zoning has changed (or not changed) over time, where the changes to SFZ actually occurs (and doesn’t occur), and how the scarcity of zones that allow for density has contributed to the current housing affordability crisis in California. We have narrowed our study to two neighborhoods in Los Angeles County - Atwater Village in Northeast Los Angeles and Leimert Park in South Los Angeles.
+
+Grounding our research in the historical context of redlining practices in Los Angeles, we will explore how redlining has affected the growth of two single family neighborhoods -- Leimert Park and Atwater Village. Comparing housing data from the American community Survery (Social Explorer) and Los Angeles Department of Building and Safety (LADBS) construction permit data -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Also, given the level of public investment in infrastructure in each respective neighborhood with the Crenshaw Line in Leimert Park and the LA River project near Atwater Village, we would like to understand if this increases pressures to densify. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing.
+
+In comparing these two neighborhoods, we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Housing density bills keep failing at the state level, yet the housing pressure continues to mount._
+
+* _**How are urban single family neighborhoods evolving as the housing affordability crisis deepens?**_
+
+* _**Are neighborhoods with different racial characteristics evolving differently?**_
+
+* _**What does density look like in predominantly single family neighborhoods?**_
 
 * _**Given the incentives that accessory dwelling unit (ADU) bills and transit oriented communities (TOC) policies provide -- have these affected density in the neighborhoods of Leimert Park and Atwater Village? Have these upzoning efforts resulted in housing getting built? Where is housing needed where it is still being refused?**_
 
