@@ -8,7 +8,7 @@ _Our initial interest was in how single family zoning has changed (or not change
 
 _Grounding our research in the historical context of redlining practices in Los Angeles, we will explore how redlining has affected the growth of two single family neighborhoods -- Leimert Park and Atwater Village. Comparing housing data from the American community Survery (Social Explorer) and Los Angeles Department of Building and Safety (LADBS) construction permit data -- we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Also, given the level of public investment in infrastructure in each respective neighborhood with the Crenshaw Line in Leimert Park and the LA River project near Atwater Village, we would like to understand if this increases pressures to densify. With the failure of housing density bills in the state of California, we want to explore how single family housing can be a upzoned and used for affordable housing._
 
-In comparing these two neighborhoods, we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Housing density bills keep failing at the state level, yet the housing pressure continues to mount._
+In comparing these two neighborhoods, we are interested in what can be learned about the motivations for housing density in communities that are predominantly zoned for single family housing. Housing density bills keep failing at the state level, yet the housing pressure continues to mount.: 
 
 * _**How are urban single family neighborhoods evolving as the housing affordability crisis deepens?**_
 
@@ -27,20 +27,15 @@ In comparing these two neighborhoods, we are interested in what can be learned a
 
 ## Spatial Scope
 
-_We are interested in the spatial scope of the City of Los Angeles and Unincorporated Riverside County. Given their varying local contexts as urban and suburban areas, respectively, we are interested in using these areas as case studies as they are both looking for creative solutions to densify. As California intends to increase its housing production, these locations can provide unique perspectives and make a case for density in the state. Broadly, we are interested in using these areas as case studies to look at housing pressures and understand how these pressures motivate upzoning in the urban and suburban context. Further, can both of these jusrisdictions use density as a means to create more opportunities for affordable housing?_
+_We are interested in Atwater Village, in Northeast Los Angeles, and Leimert Park in South Los Angeles. As California intends to increase its housing production, these locations can provide unique perspectives and make a case for density in the state. Broadly, we are interested in using these areas as case studies to look at housing pressures and understand how these pressures motivate upzoning in the urban and suburban context. Further, can both of these jurisdictions use density as a means to create more opportunities for affordable housing?_
 
 
 ## Description of Data Sources
 
 #### LA City Data: New Residential Building Permits over 100k
-_The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles. Permits are categorized into building permits, electrical permits, and mechanical permits (which include plumbing, HVAC systems, fire sprinklers, elevators, and pressure vessels). Depending on the complexity of a project, a permit may be issued the same day with Express Permit or e-Permit ("No Plan Check" category), or a permit may require that the plans be reviewed ("Plan Check" category) by a Building and Safety Plan Check personnel._ 
+_The Department of Building and Safety issues permits for the construction, remodeling, and repair of buildings and structures in the City of Los Angeles. Permits are categorized into building permits, electrical permits, and mechanical permits (which include plumbing, HVAC systems, fire sprinklers, elevators, and pressure vessels). Depending on the complexity of a project, a permit may be issued the same day with Express Permit or e-Permit ("No Plan Check" category), or a permit may require that the plans be reviewed ("Plan Check" category) by a Building and Safety Plan Check personnel.We will filter out construction permits for new housing units within the neighborhoods of Leimert Park and Atwater Village._ 
 
 * (https://data.lacity.org/A-Prosperous-City/New-Residential-Building-Permits-over-100k/peyn-q7x3)
-
-#### Riverside County Mapping Portal: Assessor PropertyCharacteristics Table
-_Interested in utilizing shapefiles of the Regional Housing Needs Assessment (RHNA) neighborhoods, areas being upzoned, and any breakdown that might demonstrate where accessory dwelling unit (ADU) production is taking place._
-
-* (https://gisopendata-countyofriverside.opendata.arcgis.com/datasets/assessor-propertycharacteristics-table) 
 
 #### American Community Survey (ACS) Census Data: SELECTED HOUSING CHARACTERISTICS
 _Will utilize ACS information to make connections of affordability and housing production in the State of California._
